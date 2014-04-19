@@ -667,6 +667,7 @@ a:focus {
     text-align: center;
 
     font-size: 50px;
+    line-height: 65px;
     padding: 20px;
 
     z-index: 100;
